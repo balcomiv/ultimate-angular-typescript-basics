@@ -19,13 +19,19 @@ via https://app.pluralsight.com/course-player?clipId=9a10ee00-3636-41aa-8aad-f30
 
 ## Helpful Links
 
-### Pluralsight Course
+### Ultimate Angular Course
 
-- https://app.pluralsight.com/player?course=typescript-in-depth&author=brice-wilson&name=typescript-in-depth-m8&clip=4&mode=live
+- https://app.ultimatecourses.com/course/typescript-basics
 
 ### Prettier
 
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#prettier-settings
+
+### Webpack && TypeScript
+
+- https://webpack.js.org/guides/getting-started/#basic-setup
+
+- https://codesource.io/setting-up-webpack-and-typescript/
 
 ## Notes
 
